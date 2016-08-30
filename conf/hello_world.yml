@@ -1,0 +1,3 @@
+template: Hello Mrs, %s The time now is %s on zone %s!
+defaultName: Stranger
+defaultTimeZone: UTC
